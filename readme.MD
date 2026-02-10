@@ -11,7 +11,23 @@ This project is designed with correctness, scalability, and real-world backend p
 - Node.js
 - Express.js
 - MongoDB
+- Swagger (OpenAPI 3.0)
 - Deployed on Render
+
+---
+
+
+## API Documentation (Swagger)
+
+Interactive API documentation is available using **Swagger UI**.
+
+🔗 **Swagger UI (Live):**  
+https://sales-leaderboard-api.onrender.com/api-docs
+
+Swagger provides:
+- Interactive endpoint testing
+- Request/response schemas
+- Live API exploration
 
 ---
 
